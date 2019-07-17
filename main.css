@@ -48,7 +48,7 @@ h1 {
 
 .About{
     background-color: white;
-    color: white;
+    color: green;
     display: flex;
     width: auto;
     -webkit-box-pack: center;
