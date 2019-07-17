@@ -1,0 +1,148 @@
+body{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.topnav {
+    background-color: white;
+    overflow: hidden;
+}
+  
+.UpperBody{
+    background-color: red;
+}
+
+   
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: green;
+    text-align: center;
+    padding: 10px 15px;
+    text-decoration: bold;
+    font-size: 18px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: grey;
+    color: black;
+}
+  
+/* Add a color to the active/current link */
+
+
+h1 {
+    font-size: 3.0rem;
+   font-style: normal;
+   font-weight: 500;
+}
+
+.subtext {
+   font-size: 1.3rem;
+   line-height: 2rem;
+   font-style: normal;
+   font-weight: normal;
+}
+
+
+.About{
+    background-color: white;
+    color: white;
+    display: flex;
+    width: auto;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    padding-left: 7%;
+    padding-right: 7%;
+    
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    min-height: 25rem;
+    padding-bottom: 5%; 
+    background-image: url(ibukun0.jpg);
+}
+
+.Education{
+    background-color: red;
+    color: white;
+    display: flex;
+    width: auto;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    padding-left: 7%;
+    padding-right: 7%;
+    
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    min-height: 25rem;
+    padding-bottom: 5%;   
+}
+
+.Work{
+    background-color: yellow;
+    color: black;
+    display: flex;
+    width: auto;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    padding-left: 7%;
+    padding-right: 7%;
+    
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    min-height: 25rem;
+    padding-bottom: 5%;   
+}
+
+.Gallery{
+    
+    display: flex;
+    width: auto;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    padding-left: 7%;
+    padding-right: 7%;
+    
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    min-height: 25rem;
+    padding-bottom: 5%;   
+}
+
+img{
+    width: 300px;
+    height: auto;
+}
+
+
+.Skillset{
+    background-color: red;
+    color: white;
+    display: flex;
+    width: auto;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    padding-left: 7%;
+    padding-right: 7%;
+    
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    min-height: 25rem;
+    padding-bottom: 5%;   
+}
